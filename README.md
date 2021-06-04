@@ -8,6 +8,3 @@ Este projeto está sendo desenvolvido usando as novas tags do HTML5 e CSS3. Tamb
 
 Se trata de um simples projeto apenas com cabeçalho com logo e menu, área de conteúdo com 2 colunas e footer.
 
-
-
-![](C:\Users\allys\Desktop\curso web Udemy\Projeto-museu-nacional\printscreen.png)
